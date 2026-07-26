@@ -1,0 +1,4 @@
+.cdn_workspace/
+files/
+*.bak
+token.env
