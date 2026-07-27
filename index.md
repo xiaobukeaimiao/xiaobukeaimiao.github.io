@@ -96,7 +96,9 @@ Hi! 这里是小不可爱的个人主页.
 
 
 
+## 其他
 
+[数学证明杂记](./files/others/数学证明杂记.pdf)
 
 
 
@@ -109,11 +111,11 @@ Hi! 这里是小不可爱的个人主页.
 
 [Steam](https://steamcommunity.com/profiles/76561199628718137/)
 
-### Celeste
+## Celeste
 
 [CN Top Golden List (中国金榜)](https://docs.qq.com/sheet/DTmZKVVpSVkZmekNa) 的管理员之一.
 
-### 音乐
+## 音乐
 
 [In Wonderment of Winter - Ori and the Will of the Wisps](./files/music/In_Wonderment_of_Winter.flac)
 
@@ -129,7 +131,7 @@ Hi! 这里是小不可爱的个人主页.
 
 [Ode to the Bridge Builder - World of Goo](./files/music/Ode_to_the_Bridge_Builder.flac)
 
-[Joy of Rememberance - Celetse](./files/music/Joy_of_Remembrance.flac)
+[Joy of Rememberance - Celeste](./files/music/Joy_of_Remembrance.flac)
 
 [Completing the Circle - Ori and the Blind Forest](./files/music/Completing_the_Circle.flac)
 
