@@ -133,6 +133,6 @@ Hi! 这里是小不可爱的个人主页.
 
 [Joy of Rememberance - Celeste](https://huggingface.co/datasets/xiaobukeai/personal_mainpage/resolve/main/files/music/Joy_of_Remembrance.flac)
 
-[Completing the Circle - Ori and the Blind Forest](https://huggingface.co/datasets/xiaobukeai/personal_mainpage/resolve/main/files/music/Completing_the_Circle.flac)
+[Restoring the Light, Facing the Dark - Ori and the Blind Forest](./files/music/Restoring_the_Light_Facing_the_Dark.flac)
 
 
