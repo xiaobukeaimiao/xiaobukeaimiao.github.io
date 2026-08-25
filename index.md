@@ -117,22 +117,24 @@ Hi! 这里是小不可爱的个人主页.
 
 ## 音乐
 
-[In Wonderment of Winter - Ori and the Will of the Wisps](./files/music/In_Wonderment_of_Winter.flac)
+[In Wonderment of Winter](./files/music/In_Wonderment_of_Winter.flac) - Ori and the Will of the Wisps
 
-[City of Tears - Hollow Knight](./files/music/City_of_Tears.flac)
+[City of Tears](./files/music/City_of_Tears.flac) - Hollow Knight
 
-[遺サレタ場所_斜光 - NieR: Automata](./files/music/遺サレタ場所_斜光.flac)
+[遺サレタ場所_斜光](./files/music/遺サレタ場所_斜光.flac) - NieR: Automata
 
-[Fleatopia - Silksong](./files/music/Fleatopia.flac)
+[Symbiosis (feat. Cassie Wei)](./files/music/Symbiosis_(feat._Cassie_Wei).flac) - ENDER MAGNOLIA: Bloom in the Mist
 
-[Frostbounce - Strawberry Jam](./files/music/Frostbounce.flac)
+[Fleatopia](./files/music/Fleatopia.flac) - Silksong
 
-[星茶会 - 灰澈](./files/music/星茶会.flac)
+[Frostbounce](./files/music/Frostbounce.flac) - Strawberry Jam (Celeste)
 
-[Ode to the Bridge Builder - World of Goo](./files/music/Ode_to_the_Bridge_Builder.flac)
+[星茶会](./files/music/星茶会.flac) - 灰澈
 
-[Joy of Rememberance - Celeste](./files/music/Joy_of_Remembrance.flac)
+[Ode to the Bridge Builder](./files/music/Ode_to_the_Bridge_Builder.flac) - World of Goo
 
-[Restoring the Light, Facing the Dark - Ori and the Blind Forest](./files/music/Restoring_the_Light_Facing_the_Dark.flac)
+[Restoring the Light, Facing the Dark](./files/music/Restoring_the_Light_Facing_the_Dark.flac) - Ori and the Blind Forest
+
+[Joy of Rememberance](./files/music/Joy_of_Remembrance.flac) - Celeste
 
 
