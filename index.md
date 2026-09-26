@@ -113,7 +113,7 @@ Hi! 这里是小不可爱的个人主页.
 
 ## Celeste
 
-[CN Top Golden List (中国金榜)](https://docs.qq.com/sheet/DTmZKVVpSVkZmekNa) 的管理员之一.
+[CN Top Golden List (中国金榜)](https://cngist.com) 的管理员之一.
 
 ## 音乐
 
@@ -123,11 +123,11 @@ Hi! 这里是小不可爱的个人主页.
 
 [遺サレタ場所_斜光](./files/music/遺サレタ場所_斜光.flac) - NieR: Automata
 
-[Symbiosis (feat. Cassie Wei)](./files/music/Symbiosis_(feat._Cassie_Wei).flac) - ENDER MAGNOLIA: Bloom in the Mist
+[Symbiosis](./files/music/Symbiosis.flac) - ENDER MAGNOLIA: Bloom in the Mist
 
 [Fleatopia](./files/music/Fleatopia.flac) - Silksong
 
-[Frostbounce](./files/music/Frostbounce.flac) - Strawberry Jam (Celeste)
+[Pillars of Creation Mix](./files/music/Pillars_of_Creation_Mix.flac) - Strawberry Jam (Celeste)
 
 [星茶会](./files/music/星茶会.flac) - 灰澈
 
@@ -136,5 +136,3 @@ Hi! 这里是小不可爱的个人主页.
 [Restoring the Light, Facing the Dark](./files/music/Restoring_the_Light_Facing_the_Dark.flac) - Ori and the Blind Forest
 
 [Joy of Rememberance](./files/music/Joy_of_Remembrance.flac) - Celeste
-
-
