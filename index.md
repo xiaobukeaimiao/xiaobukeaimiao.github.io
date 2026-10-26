@@ -119,6 +119,8 @@ Hi! 这里是小不可爱的个人主页.
 
 [In Wonderment of Winter](./files/music/In_Wonderment_of_Winter.flac) - Ori and the Will of the Wisps
 
+[Outer Wilds](./files/music/Outer_Wilds.flac) - Outer Wilds
+
 [City of Tears](./files/music/City_of_Tears.flac) - Hollow Knight
 
 [遺サレタ場所_斜光](./files/music/遺サレタ場所_斜光.flac) - NieR: Automata
@@ -130,6 +132,8 @@ Hi! 这里是小不可爱的个人主页.
 [Pillars of Creation Mix](./files/music/Pillars_of_Creation_Mix.flac) - Strawberry Jam (Celeste)
 
 [星茶会](./files/music/星茶会.flac) - 灰澈
+
+[North](./files/music/North.wav) - ENDER LILIS: Quietus of the Knights
 
 [Ode to the Bridge Builder](./files/music/Ode_to_the_Bridge_Builder.flac) - World of Goo
 
