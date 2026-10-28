@@ -77,6 +77,7 @@ Hi! 这里是小不可爱的个人主页.
 #### An Introduction to ODE (常微分方程导论)
 * 授课教师: 陈志杰
 * 笔记: [常微分方程导论 笔记](./files/notes/Introduction_to_ODE.pdf) · [期末复习](./files/notes/Introduction_to_ODE_review.pdf)
+* 讲义: [常微分方程导论讲义-陈志杰](./files/books/Introduction_to_ODE.pdf)
 
 ### 2026春
 
