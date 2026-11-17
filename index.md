@@ -124,7 +124,7 @@ Hi! 这里是小不可爱的个人主页.
 
 [City of Tears](./files/music/City_of_Tears.flac) - Hollow Knight
 
-[遺サレタ場所_斜光](./files/music/遺サレタ場所_斜光.flac) - NieR: Automata
+[遺サレタ場所/斜光](./files/music/遺サレタ場所_斜光.flac) - NieR: Automata
 
 [Symbiosis](./files/music/Symbiosis.flac) - ENDER MAGNOLIA: Bloom in the Mist
 
@@ -135,6 +135,10 @@ Hi! 这里是小不可爱的个人主页.
 [星茶会](./files/music/星茶会.flac) - 灰澈
 
 [North](./files/music/North.wav) - ENDER LILIS: Quietus of the Knights
+
+[繰り返す季節の中で](./files/music/繰り返す季節の中で.wav) - ISLAND
+
+[Town 3](./files/music/Town_3.mp3) - RPG Maker MV
 
 [Ode to the Bridge Builder](./files/music/Ode_to_the_Bridge_Builder.flac) - World of Goo
 
